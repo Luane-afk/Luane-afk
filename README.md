@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @Luane-afk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Oi, eu sou a @Luane-afk  
+- 👀 Tenho interesse em análise de dados, Big Data e criar insights significativos por meio de visualizações de dados.  
+- 🌱 Atualmente estou aprendendo bibliotecas avançadas de Python (NumPy, Pandas, Polars, Matplotlib) e Power BI para dashboards interativos.  
+- 💞️ Estou aberta a colaborar em projetos de análise de dados e explorar formas inovadoras de trabalhar com grandes volumes de dados.  
+- 📫 Como me encontrar: luanegomesribeiro@gmail.com.  
+- 😄 Pronomes: Ela/Dela.  
+- ⚡ Curiosidade: Amo organizar dados tanto quanto amo organizar minhas playlists! 🎵  
 
-<!---
-Luane-afk/Luane-afk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
