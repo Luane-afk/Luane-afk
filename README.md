@@ -3,6 +3,5 @@
 - 🌱 Atualmente estou aprendendo bibliotecas avançadas de Python (NumPy, Pandas, Polars, Matplotlib) e Power BI para dashboards interativos.  
 - 💞️ Estou aberta a colaborar em projetos de análise de dados e explorar formas inovadoras de trabalhar com grandes volumes de dados.  
 - 📫 Como me encontrar: luanegomesribeiro@gmail.com.  
-- 😄 Pronomes: Ela/Dela.  
 - ⚡ Curiosidade: Amo organizar dados tanto quanto amo organizar minhas playlists! 🎵  
 
